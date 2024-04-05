@@ -1,1 +1,1 @@
-[![Watch the video](https://github.com/abccastro/Maple-Mapping/assets/113273491/b38633d2-7163-4739-a00c-eec7e1165bf7)](https://www.youtube.com/watch?v=Pb4DYtwmtAo)
+[![Data Security Awareness](https://github.com/abccastro/Maple-Mapping/assets/113273491/c7bc2356-1fc3-4d1b-920a-98a27fb27e4d)](https://www.canva.com/design/DAF7LqyKiZY/yXpVIGdWC9EY_4H4h8LA9w/watch?utm_content=DAF7LqyKiZY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
