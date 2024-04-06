@@ -1,0 +1,481 @@
+SCHOOL_ID,NAME,BOARD,CITY,PROVINCE,GRADES,POSTSECOND,DATA_SOURCE,ELEM,JUNIOR_H,SENIOR_H,POSTAL_COD,LATITUDE,LONGITUDE
+1,A. E. Cross School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3E3C2,51.02336111,-114.1423612
+2,AADAC Youth Services,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2N2E5,51.06058077,-114.1016481
+3,Abbeydale School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A6W2,51.05640654,-113.9302013
+4,Acadia School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J1K4,50.9698888,-114.0532941
+5,Access Academy,Access International College (Calgary) Incorporated,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3E7K1,51.01926865,-114.1190292
+6,Adolescent Mental Health Services,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2N2T9,51.06506519,-114.131287
+7,Ahmadiyya Muslim School,Ahmadiyya Muslim Schools Society Alberta,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J4L3,51.10175158,-113.9737993
+8,Akiva Academy,Congregation House of Jacob-Mikveh Israel,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2V2Y3,50.97366999,-114.0772316
+9,Al-Amal Academy,The Prairie Land School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3R0N2,51.14926772,-114.206071
+10,Al-Amal Online Academy,The Prairie Land School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3R0N2,51.14963114,-114.2082167
+11,Alberta Ballet School,The Alberta Ballet Company,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2R1K7,51.04224859,-114.0822517
+12,Alberta Chung Wah School,Alberta Chung Wah School Society,Calgary,AB,Unknown,N,N,N,N,N,T2G4X6,51.04950006,-114.0622196
+13,Alex Ferguson School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3C1K5,51.03943608,-114.1233821
+14,Alex Munro School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K0R9,51.12095458,-114.0613747
+15,All Boys Program,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E1C2,51.0212257,-114.136711
+16,All Saints High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2X4K9,50.85918373,-114.0259251
+17,"Almadina Language Charter Academy, Mountain View Campus",Almadina School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2B1R9,51.03255056,-113.986905
+18,"Almadina Language Charter Academy, Ogden Campus",Almadina School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2C0G8,50.9847171,-114.0135793
+19,Al-Qaim International School,Al-Zahra Islamic Research Foundation,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2H1C3,50.98540138,-114.0515489
+20,Altadore School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T4H9,51.01487116,-114.1002161
+21,Alternative High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2T5A5,51.00938188,-114.1101934
+22,Andrew Sibbald School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J2X9,50.93526626,-114.0417171
+23,Annie Foote School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y5V5,51.08590565,-113.9404197
+24,Annie Gale School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T1Y4S8,51.08872943,-113.9649795
+25,Apostles of Jesus,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3N1H6,51.158808,-113.9560794
+26,Arbour Lake Middle School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3G4H3,51.13497196,-114.2092406
+27,Arise Christian Academy,Arise Calgary Church,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3J1Z9,51.09693531,-113.9531395
+28,Asasa Academy,Asasa Learning,Calgary,AB,Elementary,N,N,Y,N,N,T2K3J6,51.08648866,-114.0891968
+29,Ascension of Our Lord,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3K4G9,51.14618128,-114.0608134
+30,Auburn Bay School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M0K6,50.89635216,-113.9618884
+31,Aurora Learning Calgary,Aurora Learning Foundation (Calgary),Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2E7N7,51.09706319,-114.0075744
+32,Balmoral School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2M0H4,51.06797713,-114.0668282
+33,Banbury Crossroads School,Banbury Crossroads School,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3E7K1,51.0192754,-114.1189863
+34,Banff Trail School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2M4J3,51.08121918,-114.1170596
+35,Banting and Best School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2C2K5,50.99385668,-114.0148461
+36,Battalion Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H4S2,51.02387856,-114.183636
+37,Bayside School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M0Z4,50.88734835,-113.94838
+38,BCS@Home,Bearspaw Christian School Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3R1C5,51.17940653,-114.1971516
+39,Bearspaw Christian School & College,Bearspaw Christian School Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3R1C5,51.17921821,-114.1995978
+40,Beddington Heights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K2J6,51.13193629,-114.0793248
+41,Belfast School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E4V4,51.06358069,-114.0185082
+42,Belvedere Parkway School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B2R8,51.09337856,-114.2119689
+43,Bishop Carroll High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3E6L1,51.01052164,-114.1225251
+44,Bishop Kidd School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2A0Y8,51.04039918,-113.991623
+45,Bishop McNally High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3J3N4,51.10343964,-113.953675
+46,Bishop O'Byrne High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2Y4H3,50.89842289,-114.0647434
+47,Bishop Pinkham School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3E5K1,50.99822522,-114.1291645
+48,Blessed Marie-Rose,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3R1M9,51.16116402,-114.1487679
+49,Bob Edwards School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A2Z5,51.05985297,-113.9742634
+50,Bowcroft School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B2L9,51.08755962,-114.1930241
+51,Bowness High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3B2N6,51.09351893,-114.201836
+52,Braeside School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W0C3,50.9569017,-114.1026679
+53,Branton School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2M3W1,51.07277045,-114.1106251
+54,Brentwood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2L0C9,51.0923626,-114.1278159
+55,Briar Hill School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2N2L8,51.06301033,-114.1117608
+56,Bridlewood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y0L4,50.90151396,-114.1106797
+57,Buchanan School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E2Y2,51.08555748,-114.063555
+58,Buffalo Rubbing Stone School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K0X2,51.16944011,-114.0896623
+59,Calgary Academy,Calgary Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3H0R3,51.04101233,-114.2280142
+60,Calgary Academy Collegiate,Calgary Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3H0R3,51.04052662,-114.2277889
+61,Calgary Arts Academy,Calgary Arts Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2G1E8,51.03959669,-114.0507211
+62,Calgary Arts Academy Rosscarrock Middle School,Calgary Arts Academy Society,Calgary,AB,Unknown,N,N,N,N,N,T3C1W7,51.04100368,-114.1452042
+63,Calgary Chinese Alliance School,Calgary Chinese Alliance School Society,Calgary,AB,Senior High,N,N,N,N,Y,T3K2E2,51.12583627,-114.0693758
+64,Calgary Chinese Private School,The Calgary Chinese Public School Society,Calgary,AB,Senior High,N,N,N,N,Y,T2P0B9,51.05160189,-114.0643343
+65,Calgary Christian High School,The Palliser School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3E0R5,51.03030729,-114.1589203
+66,Calgary Christian School,The Palliser School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E3X9,51.02882155,-114.1580332
+67,Calgary Classical Academy,Alberta Classical Academy Ltd.,Calgary,AB,Elementary,N,N,Y,N,N,T2E3Y1,51.0541791,-114.0487322
+68,Calgary Classical Academy Currie Campus,Alberta Classical Academy Ltd.,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3E7K9,51.01774868,-114.1192642
+69,Calgary French & International School,Calgary French & International School Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3H5R1,51.06835389,-114.1986626
+70,Calgary German Language School Society,Calgary German Language School Society,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3B2L9,51.08698679,-114.1922516
+71,Calgary Girls Charter School,Calgary Girls' School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3E5P7,50.99849492,-114.1142775
+72,Calgary Girls Charter School - Bel Aire Campus,Calgary Girls' School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2V2C4,50.99772167,-114.0884615
+73,Calgary Home Education,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2V0Z7,51.00470332,-114.0742946
+74,Calgary International Academy,Calgary International Academy Ltd,Calgary,AB,Elementary,N,N,Y,N,N,T3G5J7,51.13975919,-114.2322131
+75,Calgary International Academy ECS,Calgary International Academy Ltd,Calgary,AB,Unknown,N,N,N,N,N,T3J4A3,51.12564355,-113.9547982
+76,"Calgary Islamic School, Akram Jomaa Campus",The Palliser School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T1Y5L2,51.08712623,-113.9996038
+77,"Calgary Islamic School, Omar Bin Al-Khattab Campus",The Palliser School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A5K4,51.05063424,-113.9941267
+78,Calgary Jewish Academy,The Calgary Jewish Academy,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2V1P7,50.99371155,-114.0929592
+79,Calgary Quest School,Calgary Quest Children's Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3C0A5,51.04919739,-114.1369503
+80,Calgary Waldorf School,Calgary Waldorf School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3H5G9,51.07213926,-114.2189034
+81,Cambrian Heights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K3J5,51.08592001,-114.0877678
+82,Canadian Montessori School,The Canadian Montessori School Ltd.,Calgary,AB,Elementary,N,N,Y,N,N,T2V0P6,50.99079713,-114.0875979
+83,Canadian Montessori School North,The Canadian Montessori School Ltd.,Calgary,AB,Unknown,N,N,N,N,N,T2V0P6,50.99088493,-114.087716
+84,Canadian Montessori School West,The Canadian Montessori School Ltd.,Calgary,AB,Unknown,N,N,N,N,N,T2V0P6,50.99076337,-114.0880271
+85,Canyon Meadows School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W1J1,50.94744265,-114.0784324
+86,Capitol Hill School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2M3T4,51.07194764,-114.1038035
+87,Cappy Smart School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A4P5,51.06364251,-113.9459398
+88,Capstone Engineering Academy,Capstone Engineering Academy,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2H2Z9,50.99732132,-114.0428356
+89,Captain John Palliser School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2L0G6,51.09716749,-114.1387613
+90,Captain Nichola Goddard School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3K0P3,51.16253656,-114.0904357
+91,Catherine Nichols Gunn School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K5C7,51.11174136,-114.0581542
+92,CBe-learn,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3E1L2,51.00687012,-114.1142406
+93,Cecil Swanson School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y5V9,51.07562105,-113.9647095
+94,Cedarbrae School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W2T3,50.95888488,-114.1341246
+95,Centennial High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2X3W7,50.90555259,-114.0519811
+96,Central Memorial High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3E1R9,51.00812575,-114.1136429
+97,Chaparral School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X3S2,50.88431534,-114.0484511
+98,Chief Justice Milvain School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y6A3,51.08390964,-113.9724582
+99,Children's Village School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E5L5,51.06385981,-114.0420778
+100,Chinook Learning Services,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2M0T2,51.06852485,-114.0665596
+101,Chinook Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2V0S6,50.98620223,-114.0882741
+102,Chinook Winds Adventist Academy,Alberta Conference of 7th Day Adventist Church,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3B5T2,51.08545848,-114.2438295
+103,Chris Akkerman School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A3J6,51.06364236,-113.9635383
+104,Christ the King Catholic School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3M1K6,50.88784133,-113.975956
+105,Christine Meikle School,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3A2Y5,51.03040425,-113.8997294
+106,Citadel Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G4B8,51.14554139,-114.1754534
+107,Clarence Sansom School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T1Y6G4,51.07495465,-113.9493871
+108,Clear Water Academy,Clear Water Academy Foundation,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3E8G1,51.01930925,-114.1233492
+109,CLS Alternative Site,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T3J4W3,51.1237864,-113.9493119
+110,CLS Forest Lawn Writing Centre,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2A1M8,51.04256577,-113.9690481
+111,CLS James Fowler Writing Centre,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2K1A1,51.08702801,-114.0710041
+112,CLS Lord Beaverbrook Writing Centre,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2H0Z4,50.97322975,-114.0613439
+113,CLS Lord Shaughnessy Writing Centre,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T3E1L2,51.00700514,-114.1143157
+114,Collingwood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2L0R6,51.07988529,-114.1025604
+115,Colonel Irvine School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2K3H6,51.09257241,-114.080159
+116,Colonel J. Fred Scott School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y3C4,51.08780246,-113.9681182
+117,Colonel Macleod School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E3Y9,51.06599903,-114.0470624
+118,Colonel Sanders School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K3G5,51.09928626,-114.0751366
+119,Colonel Walker School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2G0V3,51.03442789,-114.0192261
+120,Columbia College,Columbia College Calgary,Calgary,AB,Senior High,N,N,N,N,Y,T2E7N8,51.05701673,-114.018012
+121,Connaught School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2R0J8,51.04162464,-114.0887191
+122,Connect Charter School,Connect Charter School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3E5Z4,51.00039178,-114.13566
+123,Copperfield School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z0G7,50.91581192,-113.929813
+124,Corpus Christi School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K3C1,51.10141563,-114.0680868
+125,Coventry Hills School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K5S9,51.16521764,-114.0506017
+126,Cranston School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M1E8,50.88689352,-113.9872159
+127,Crescent Heights High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2M2S2,51.06143611,-114.0661402
+128,Crossing Park School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J4W8,51.11485096,-113.967554
+129,Dalhousie School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A1K3,51.10654738,-114.1512929
+130,David Thompson School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2J1K4,50.97009148,-114.0534336
+131,Deer Run School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J6P8,50.92166201,-114.0095506
+132,Delta West Academy,Delta West Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2E4P3,51.0550983,-114.0346668
+133,Discovering Choices,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2G0W2,51.04288295,-114.0573199
+134,Discovering Choices II,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2A6K3,51.05605603,-113.984008
+135,Discovering Choices II,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2A6K3,51.05606615,-113.9838685
+136,Divine Mercy School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M1M5,50.90163248,-113.924086
+137,Don Bosco School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2J6S7,50.93141782,-114.0182394
+138,Douglas Harkness School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y2C5,51.07400162,-113.9462458
+139,Douglasdale School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z4A3,50.93525324,-113.9831652
+140,Dr. E. P. Scarlett High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2W1H4,50.94885665,-114.0884416
+141,Dr. E. W. Coffin School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2L1W4,51.10360249,-114.1350341
+142,Dr. Freda Miller School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y0E8,50.9201264,-114.1148667
+143,Dr. George Stanley School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3M0J4,50.88284321,-113.9800147
+144,Dr. Gladys McKelvie Egbert School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A5G9,51.05932091,-113.9415791
+145,Dr. Gordon Higgins School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T1Y2W9,51.0752588,-113.9707747
+146,Dr. Gordon Townsend School,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3B6A8,51.07473699,-114.1488897
+147,Dr. J. K. Mulloy School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K1H6,51.11922934,-114.0807171
+148,Dr. Martha Cohen School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z0V1,50.9162257,-113.9456148
+149,Dr. Oakley School,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2T4Z9,51.0189654,-114.1083699
+150,Dr. Roberta Bondar School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H5B1,51.04970812,-114.208655
+151,Earl Grey School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T0Z1,51.03120438,-114.0821534
+152,Eastside Christian Academy,Eastside City Church and Missionary Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2A7L8,51.05153179,-113.9309333
+153,Ecole St. Pius X School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2M3T5,51.07303364,-114.1035922
+154,Edgemont School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A4X1,51.12846475,-114.1442474
+155,Elbow Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T2H8,51.01989484,-114.0832735
+156,Elboya School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2S2N3,51.01116078,-114.0785829
+157,Emily Follensbee School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2T3W5,51.00775746,-114.0950751
+158,Eric Harvie School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3L3C9,51.12730329,-114.2522439
+159,Erin Woods School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2B2Z9,51.02306606,-113.9659688
+160,Ernest Manning High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3H0N7,51.03559283,-114.1902771
+161,Ernest Morrow School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A1R3,51.04086459,-113.965655
+162,Ethel M. Johnson School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W0W7,50.95539496,-114.0888914
+163,Eugene Coste School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2V3K7,50.96826251,-114.0873096
+164,Evergreen School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y0L3,50.91704749,-114.1066701
+165,F. E. Osborne School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3A1A7,51.09302606,-114.1637662
+166,Fairview School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2H0Y1,50.98434123,-114.0600631
+167,Falconridge School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J1T4,51.09956986,-113.9449631
+168,Father Doucet School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y2T5,50.90946851,-114.085216
+169,Father James Whelihan,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X2R5,50.90346584,-114.0484764
+170,Father Lacombe School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2A6B4,51.0478093,-113.9825774
+171,Father Scollen School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T1Y5N4,51.09293736,-113.9416557
+172,FFCA High School Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3B1C7,51.0697593,-114.1509076
+173,FFCA South High School Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2H1Z2,50.97374757,-114.0610839
+174,Filipino Language and Cultural School of Calgary,Philippine Cultural Center Foundation (Calgary),Calgary,AB,Unknown,N,N,N,N,N,T3J3Z5,51.10117704,-113.9674459
+175,Fish Creek School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X2Z1,50.90194182,-114.0333495
+176,Foothills Academy,Foothills Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2N4T1,51.06398068,-114.1413918
+177,Forest Lawn High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2A1M8,51.04295027,-113.9692251
+178,G. W. Skene School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A6M7,51.04567347,-113.9454715
+179,Georges P. Vanier School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E2H3,51.08128834,-114.0527756
+180,Glamorgan School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3E4W3,51.01540804,-114.1457371
+181,Glenbrook School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E3V1,51.02362196,-114.1555359
+182,Glendale School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E3Z8,51.03248659,-114.145831
+183,Glenmeadows School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E4G4,51.03498064,-114.1581651
+184,Glenmore Christian Academy Elementary,GCA Educational Society,Calgary,AB,Elementary,N,N,Y,N,N,T2Y4W2,50.90413182,-114.1150114
+185,Glenmore Christian Academy Junior High,GCA Educational Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Y4W2,50.90411829,-114.1151079
+186,Gobind Sarvar School Guru Nanak Gate Campus,Gobind Marg Charitable Trust Foundation,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3J2J1,51.12932813,-113.9647167
+187,Grant MacEwan School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J3A5,51.10634977,-113.9434427
+188,Greek Community School,Hellenic Society of Calgary and District,Calgary,AB,Senior High,N,N,N,N,Y,T3C3B7,51.0472855,-114.1386638
+189,Griffith Woods School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3H3X2,51.02972825,-114.1968974
+190,Guardian Angel School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H0G5,51.04264314,-114.221522
+191,Guy Weadick School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y4W7,51.08712565,-113.9526398
+192,H. D. Cartwright School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3A1V6,51.11255931,-114.1609094
+193,Harold Panabaker School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2W0W3,50.95761341,-114.0870925
+194,Haultain Memorial School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J4S8,50.93984745,-114.0233916
+195,Hawkwood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G2V7,51.13041763,-114.1793095
+196,Haysboro School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2V0W2,50.97565982,-114.0889173
+197,Henry Wise Wood High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2V0S6,50.98667499,-114.0853451
+198,Heritage Christian Academy,The Palliser School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2E6L2,51.0919623,-114.0104919
+199,Hidden Valley School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A6J2,51.15042808,-114.1196698
+200,Highwood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K2G5,51.092294,-114.0772054
+201,Hillhurst School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2N0Z2,51.05947072,-114.0926452
+202,Holy Angels School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2C3T5,50.9742948,-114.010407
+203,Holy Child School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X0K4,50.88683092,-114.084683
+204,Holy Cross Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2B0C6,51.02994801,-113.9807528
+205,Holy Family School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A0Z1,51.04570323,-113.9877039
+206,Holy Name (Bilingual) School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E2Y7,51.02717106,-114.1386547
+207,Holy Trinity School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A1L2,51.03898037,-113.9750097
+208,Horizon Heritage Arabic School,Horizon Academy Institute,Calgary,AB,Unknown,N,N,N,N,N,T3C3P1,51.03961293,-114.1390704
+209,Hugh A. Bennett School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J0V1,51.13170959,-113.9278672
+210,Huntington Hills School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K0M5,51.1122103,-114.0771532
+211,Ian Bazalgette School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2B0C6,51.03018417,-113.9776951
+212,Italian School of Calgary,Centro Linguistico E Culturale Italiano Calgary,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2E0B4,51.0537037,-114.0537271
+213,Jack James High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2A4M1,51.04485299,-113.9616613
+214,James Fowler High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2K1A1,51.08706845,-114.0695557
+215,James Short Memorial School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A3V7,51.04821722,-113.9433154
+216,Janet Johnstone School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y1M1,50.90972229,-114.0797225
+217,Janus Academy,Janus Academy Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A1X5,51.05600731,-113.9880361
+218,Janus Academy Junior/Senior High School,Janus Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2H1S1,50.9770687,-114.0568221
+219,Jennie Elliott School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E6A9,50.99626697,-114.1274444
+220,Joane Cardinal-Schubert High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3M2P9,50.87813598,-113.9448541
+221,John Costello Catholic School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H1N9,51.04883957,-114.1809989
+222,John G. Diefenbaker High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2K1C2,51.11282936,-114.0707749
+223,John Ware School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2V1R2,50.96358475,-114.105104
+224,Juno Beach Academy of Canadian Studies,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2H1Z2,50.97376108,-114.0617222
+225,Keeler School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A2C4,51.04938474,-113.9648936
+226,Kenneth D. Taylor School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3P0A1,51.16517082,-114.117896
+227,Killarney School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E2T9,51.028195,-114.1347657
+228,King George School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2M3M4,51.07106748,-114.0842002
+229,Lady Fatima Academy,Lady Fatima Academy,Calgary,AB,Elementary,N,N,Y,N,N,T2G5G3,51.04307037,-114.0611213
+230,Lake Bonavista School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J2L1,50.94482305,-114.0412106
+231,Lakeshore School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3M1P6,50.89851364,-113.9502709
+232,Le Roi Daniels School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2H1B9,50.98434011,-114.0582579
+233,Lester B. Pearson High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T1Y5P4,51.0771687,-113.9577771
+234,Light of Christ Catholic School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J0L8,51.12961664,-113.9415266
+235,Little Angels,Asasa Learning,Calgary,AB,Unknown,N,N,N,N,N,T2K3J6,51.08647181,-114.0895454
+236,Lord Beaverbrook High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2H0Z4,50.97314868,-114.06217
+237,Louis Riel School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2V0L1,50.96674943,-114.1319701
+238,Louise Dean School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2N2P1,51.05318997,-114.1142224
+239,Lycee Louis Pasteur,Lycee Louis Pasteur Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2T6G2,51.01764683,-114.1143612
+240,MAC Islamic School - Calgary Chapter,Muslim Association of Canada,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3G1B5,51.11491616,-114.1811766
+241,Madeleine D' Houet Bilingual School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2N2M8,51.05326521,-114.1123908
+242,Mahogany School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,,50.90234116,-113.9265554
+243,Manmeet Singh Bhullar School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J4Z1,51.1233024,-113.9596853
+244,Maple Ridge School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J1W3,50.96192386,-114.0420388
+245,Maria Montessori School,"Maria Montessori Education Centre of Calgary, Ltd.",Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2N1K6,51.0628563,-114.1244036
+246,Maria Montessori School - cSPACE King Edward Location,"Maria Montessori Education Centre of Calgary, Ltd.",Calgary,AB,Unknown,N,N,N,N,N,T2T6T7,51.02738979,-114.1004646
+247,Marion Carson School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A1A7,51.09313724,-114.1617331
+248,Marlborough School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A3A1,51.05660552,-113.9654922
+249,Marshall Springs School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Y4X5,50.9115067,-114.1133681
+250,Master's Academy,The Palliser School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T5J4,51.01540183,-114.1163456
+251,Master's College,The Palliser School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2T5J4,51.01537483,-114.1163241
+252,Mayland Heights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E6A2,51.05882109,-114.0070734
+253,McKenzie Highlands School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z4B7,50.90942673,-113.9682348
+254,McKenzie Lake School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z1L7,50.90670828,-113.9846687
+255,McKenzie Towne School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z0V3,50.92719777,-113.9667827
+256,Menno Simons Christian School,The Palliser School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3H4Y7,51.02415334,-114.1885126
+257,Midnapore School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X1L7,50.91514201,-114.0555852
+258,Midsun School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X3R5,50.90185577,-114.0301867
+259,Monsignor A. J. Hetherington Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J3J3,51.09967435,-113.9340054
+260,Monsignor E. L. Doyle Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3L1H6,51.12224892,-114.2165541
+261,Monsignor J. J. O'Brien,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Y4J5,50.90199032,-114.1036825
+262,Monsignor J. S. Smith School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z2H9,50.94130734,-113.9902626
+263,Monsignor Neville Anderson School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K4B2,51.13974225,-114.1038089
+264,Monterey Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y6R2,51.07810774,-113.9305355
+265,Montessori School of Calgary,Montessori School of Calgary,Calgary,AB,Elementary,N,N,Y,N,N,T2S2G4,51.03352237,-114.0759392
+266,Mother Mary Greene School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A3S8,51.12459742,-114.1396007
+267,Mount Royal School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2T3T3,51.03498664,-114.0933735
+268,Mount View School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E3T8,51.06995075,-114.0522833
+269,Mountain Park School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z4Y1,50.92371113,-113.9825393
+270,Mountain View Academy,Mountain View Academy Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T1Y6Z8,51.0885342,-113.9860573
+271,National Sport School,The Palliser School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3B6B7,51.08431535,-114.2226153
+272,Nellie McClung School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2V3S4,50.9687203,-114.1127909
+273,Nelson Mandela High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3J4W3,51.12384027,-113.9492368
+274,Neriah Christian School,Neriah Christian School Society of the Netherlands Reformed Congregation,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X2K4,50.90872692,-114.0588151
+275,New Brighton School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z4B2,50.91972012,-113.9544555
+276,New Heights School and Learning Services,New Heights School and Learning Services Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3E7M1,51.01943375,-114.1211576
+277,Nickle School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2J2Y6,50.94111891,-114.0616132
+278,Niitsitapi Learning Centre,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2B2E1,51.02123541,-113.9793792
+279,North Haven School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K2K2,51.09765018,-114.086837
+280,North Middle School Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E5S7,51.09608501,-114.0603916
+281,North Point School,North Point School for Boys,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2T0W3,51.03289177,-114.117497
+282,North Point School - DSEPS,North Point School for Boys,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2T0W3,51.03289177,-114.117497
+283,North Point School for Boys,North Point School for Boys,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2T0W3,51.03290526,-114.1176043
+284,North Trail High School,The Calgary School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3K2S3,51.16762162,-114.0660234
+285,Northeast Elementary Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2E6C8,51.06423839,-114.0116631
+286,Northern Lights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,,51.15729176,-114.0469594
+287,Northwest Elementary Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2K0J5,51.09327299,-114.0779717
+288,Nose Creek School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3K5W9,51.16713883,-114.0607915
+289,Notre Dame High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3K6E4,51.1581662,-114.0660574
+290,O. S. Geiger School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J2J4,51.10451879,-113.9618936
+291,Olympic Heights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H2Z7,51.04648874,-114.1808164
+292,Our Lady of Fatima,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J5C4,51.11623291,-113.9378785
+293,Our Lady of Grace School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3P0N7,51.17920051,-114.1224127
+294,Our Lady of Lourdes,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2S1S3,51.03498677,-114.0682793
+295,Our Lady of Peace Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Y2B4,50.91856256,-114.0884911
+296,Our Lady of the Assumption School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3B1N5,51.0836704,-114.1911161
+297,Our Lady of the Evergreens Catholic School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y0L5,50.91468824,-114.1227776
+298,Our Lady of the Rockies High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2V2Y2,50.97559307,-114.0787303
+299,Our Lady of the Rosary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M0W7,50.87579357,-113.9698581
+300,Palliser Beyond Borders at Calgary,The Palliser School Division,Calgary,AB,Unknown,N,N,N,N,N,T1Y5Z6,51.08605845,-114.0001279
+301,Panorama Hills School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K0S4,51.15549924,-114.085758
+302,Patrick Airlie School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A1H9,51.04021725,-113.9767827
+303,Penbrooke Meadows School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A2G4,51.04144806,-113.9528095
+304,Peter Lougheed School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J5J1,51.13080176,-113.9554357
+305,Phoenix Education Foundation,Phoenix Education Foundation,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2E6J6,51.05035631,-114.0078056
+306,Pineridge School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y4W6,51.07032927,-113.9448712
+307,Prairie Sky School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,,51.16294793,-113.9573156
+308,Prince of Peace School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3M2C9,50.89358199,-113.9495755
+309,Prince of Wales School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J3Y9,50.92487408,-114.0329677
+310,Project Trust,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2M4P6,51.07189887,-114.0828649
+311,Queen Elizabeth High School,The Calgary School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2N2G5,51.05537383,-114.1021306
+312,Queen Elizabeth School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2N2G5,51.05760935,-114.1020019
+313,R. T. Alderman School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2J1S1,50.9614094,-114.0453836
+314,Radisson Park School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A0C8,51.0464113,-113.9924667
+315,Ramsay School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2G4G9,51.03321261,-114.0460065
+316,Ranchlands School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G2C5,51.11914712,-114.1792617
+317,Renert School,The Renert School Foundation,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3R0K4,51.15212573,-114.2057464
+318,Renfrew Educational Services - Child Development Centre,Renfrew Educational Services Society,Calgary,AB,Unknown,N,N,N,N,N,T3B2X9,51.0749641,-114.144042
+319,Renfrew Educational Services - Park Place Centre,Renfrew Educational Services Society,Calgary,AB,Unknown,N,N,N,N,N,T2E6S5,51.06969542,-114.0087121
+320,Renfrew Educational Services-Bowness Centre,Renfrew Educational Services Society,Calgary,AB,Unknown,N,N,N,N,N,T3B2B2,51.09614563,-114.2186131
+321,Renfrew Educational Services-Janice McTighe Centre,Renfrew Educational Services Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E6S5,51.06966845,-114.0086907
+322,Renfrew Thomas W. Buchanan Centre,Renfrew Educational Services Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X3V4,50.90297601,-114.0558215
+323,Richmond School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T5G5,51.03028335,-114.1147064
+324,Rideau Park School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2S0S2,51.02501405,-114.0763204
+325,River Valley School,River Valley School Society,Calgary,AB,Elementary,N,N,Y,N,N,T3B2E7,51.07962909,-114.1743516
+326,River Valley School ECS,River Valley School Society,Calgary,AB,Unknown,N,N,N,N,N,T3B2E7,51.07954484,-114.1742873
+327,Riverbend School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2C3Z7,50.97264678,-114.0221269
+328,Riverside School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E0B7,51.05287245,-114.0476804
+329,Robert Thirsk High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3G5T3,51.1298497,-114.193873
+330,Robert Warren School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2W1H2,50.94309585,-114.0853423
+331,Roland Michener School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A4B1,51.05696859,-113.9459307
+332,Ron Southern School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X2E2,50.92104641,-114.0678943
+333,Rosedale School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2M0G3,51.0638353,-114.0817733
+334,Rosemont School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K1N6,51.07801304,-114.09213
+335,Royal Oak School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G5R8,51.14564462,-114.2224195
+336,Rundle College Academy,Rundle College Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2T4H9,51.01544148,-114.099905
+337,Rundle College Elementary School,Rundle College Society,Calgary,AB,Elementary,N,N,Y,N,N,T3H3W5,51.03761665,-114.193689
+338,Rundle College Junior Senior High,Rundle College Society,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3H3W5,51.03767062,-114.1938606
+339,Rundle School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y4W9,51.07120544,-113.9740805
+340,Rundle Studio,Rundle College Society,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3H3W5,51.03772459,-114.1941181
+341,Sacred Heart Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3C0T6,51.04100301,-114.0967381
+342,Saddle Ridge School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J5L6,51.13725005,-113.9370823
+343,Sam Livingston School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J3G7,50.94592213,-114.0611199
+344,Samuel W. Shaw School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Y0K6,50.90857886,-114.0879112
+345,Scenic Acres School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3L1T2,51.12031673,-114.2157222
+346,Senator Patrick Burns School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2L0X2,51.08857077,-114.1153352
+347,Sherwood School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2C1J4,50.9940256,-114.0116468
+348,Sibylla Kiddle School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,,50.87769814,-113.9709091
+349,Silver Springs School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B3V1,51.10592775,-114.1929666
+350,Simon Fraser School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2L1V3,51.10077621,-114.136511
+351,Simons Valley School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K4B2,51.13989034,-114.1074567
+352,Sir John A. Macdonald School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2K1C2,51.11159676,-114.0708929
+353,Sir John Franklin School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E0T7,51.05939427,-114.0104714
+354,Sir Wilfrid Laurier School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A0Y9,51.0459447,-113.9841052
+355,Sir Winston Churchill High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2L2J6,51.09810558,-114.140585
+356,Somerset School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Y4S2,50.8975048,-114.0855148
+357,South Middle School Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2H1V2,50.97310098,-114.0531007
+358,Southeast Elementary Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2J1A9,50.96719015,-114.0458867
+359,Southwest Elementary Campus,Foundations for the Future Charter Academy Charter School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2W0R7,50.95886953,-114.0829189
+360,St. Albert the Great,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z3X3,51.06470773,-114.0412577
+361,St. Alphonsus Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E5H5,51.06472122,-114.0412738
+362,St. Ambrose School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3G4X9,51.13341753,-114.2051534
+363,St. Andrew School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E1G2,51.01676701,-114.1478046
+364,St. Anne Academic Centre,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2G1N2,51.03504693,-114.0389585
+365,St. Anthony,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2S2N5,51.01020822,-114.0793653
+366,St. Augustine Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2V1E9,50.99138641,-114.0815723
+367,St. Basil Elementary/Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3L2T5,51.11949809,-114.2503527
+368,St. Bede Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K2J5,51.13215086,-114.0826123
+369,St. Benedict School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2V1R2,50.96370297,-114.1052542
+370,St. Bernadette School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2C0T8,50.99050895,-114.0090135
+371,St. Bonaventure School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2J3X8,50.93218446,-114.0471277
+372,St. Boniface Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J2P8,50.94331512,-114.0424983
+373,St. Brigid,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3G5S6,51.14667298,-114.1881072
+374,St. Catherine Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W1P6,50.94430437,-114.0864986
+375,St. Cecilia (Bilingual) Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J0Z3,50.96558002,-114.0507283
+376,St. Clare,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K5Z4,51.16495231,-114.0452755
+377,St. Cyril School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2W2N9,50.95557982,-114.1291219
+378,St. Damien School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2B2J1,51.02180815,-113.9921156
+379,St. Dominic School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A1C2,51.10952923,-114.1544089
+380,St. Elizabeth Seton,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3A6K3,51.15099924,-114.1101712
+381,St. Francis High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,,51.08592883,-114.1016598
+382,St. Gemma Outreach High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T1Y7K4,51.06992488,-113.9895493
+383,St. Gianna School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3M0H7,50.89560634,-113.9681865
+384,St. Gregory School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3E0R6,51.03288081,-114.1619758
+385,St. Helena School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2K0L8,51.1114963,-114.0666026
+386,St. Henry Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K1H5,51.1176569,-114.0801378
+387,St. Hubert Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K5J3,51.11843588,-114.0620572
+388,St. Isabella School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z4W8,50.91076125,-113.9361463
+389,St. Isidore Online School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2E1W6,51.07448596,-114.0610336
+390,St. James Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3E1N6,51.00118669,-114.1132837
+391,St. Jean Brebeuf School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Junior High,N,N,N,Y,N,T2L2J6,51.09939918,-114.1401129
+392,St. Jerome Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3K5S3,51.15776701,-114.078899
+393,St. Joan of Arc Elementary/Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3H0K2,51.05713794,-114.2069437
+394,St. John Henry Newman School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2Z2G7,50.90739463,-113.9889048
+395,St. John Paul II School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3J1P6,51.10770043,-113.959539
+396,St. John XXIII School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J2C3,51.10127429,-113.9389033
+397,St. Joseph Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2M3C7,51.07479381,-114.0734923
+398,St. Josephine Bakhita School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3P0P2,51.17765908,-114.1044117
+399,St. Jude School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W4W4,50.94290589,-114.1334292
+400,St. Kateri Tekakwitha School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A7N5,51.06162497,-113.9277104
+401,St. Luke Bilingual Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2L0E1,51.09084603,-114.1228438
+402,St. Margaret School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2L0K7,51.08184085,-114.0974941
+403,St. Marguerite School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2Z0W1,50.92129041,-113.9356867
+404,St. Maria Goretti Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G3T7,51.13524824,-114.1791429
+405,St. Mark Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A3V8,51.06318569,-113.9692917
+406,St. Martha School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2A4B1,51.05656398,-113.9459307
+407,St. Mary's High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2S0B8,51.03652003,-114.0645126
+408,St. Matthew School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2H1N3,50.97908104,-114.0583474
+409,St. Michael School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3C0G9,51.04455381,-114.1518116
+410,St. Monica School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2S0C2,51.03677899,-114.0674467
+411,St. Patrick School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y2X1,51.07145281,-113.9449417
+412,St. Peter Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2A5L9,51.04633343,-113.9488241
+413,St. Philip School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J5A8,50.92822384,-114.038856
+414,St. Rita School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3G2B3,51.11949382,-114.1810516
+415,St. Rose of Lima Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T1Y1Z5,51.07542512,-113.9620825
+416,St. Rupert School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y2W9,51.07589245,-113.9707747
+417,St. Sebastian Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X0E6,50.88450991,-114.0290357
+418,St. Stephen School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2W1G6,50.95513365,-114.0835426
+419,St. Sylvester School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B4N1,51.10938499,-114.1940759
+420,St. Teresa of Calcutta School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X1T7,50.91452484,-114.0523142
+421,St. Thomas Aquinas School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3E0R1,51.03105153,-114.1522056
+422,St. Thomas More School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y5V4,51.0854918,-113.9456076
+423,St. Vincent De Paul Elementary Junior High School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3A0K4,51.09323314,-114.1594152
+424,St. Wilfrid Elementary School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T1Y4Y1,51.09190805,-113.9689691
+425,St. William School,The Calgary Roman Catholic Separate School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2J0T1,50.95417738,-114.0593863
+426,Stanley Jones School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2E8M3,51.06058557,-114.0476654
+427,Start Outreach,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T3B5C2,51.0895224,-114.2020365
+428,STEM Innovation Academy High School,STEM Innovation Academy Society,Calgary,AB,Senior High,N,N,N,N,Y,T2L2K7,51.08479539,-114.1298698
+429,STEM Innovation Academy Middle School,STEM Innovation Academy Society,Calgary,AB,Junior High,N,N,N,Y,N,T2V0Y1,50.96870032,-114.0883327
+430,Sunalta School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3C2J9,51.0416692,-114.1111887
+431,Sundance School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2X2N9,50.9004381,-114.0470758
+432,Sunnyside School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2N1S2,51.05646087,-114.0795619
+433,Taradale School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,,51.12135205,-113.9377379
+434,Ted Harrison School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3J4L1,51.11734013,-113.9286939
+435,Terrace Road School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B1B3,51.07441956,-114.1588681
+436,Terry Fox School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3J1P7,51.10488022,-113.9455134
+437,The Chinese Academy,The Chinese Academy Foundation,Calgary,AB,Senior High,N,N,N,N,Y,T2K1C2,51.11291693,-114.0688437
+438,The Gilbertine Academy,The Gilbertine Institute of Catholic Studies,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2G0N1,51.04062265,-114.0304814
+439,The Hamptons School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A6G2,51.14366859,-114.1494162
+440,Thomas B. Riley School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3B2J9,51.08739426,-114.1895987
+441,Thorncliffe School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2K3B9,51.1021453,-114.0668348
+442,Tom Baines School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3A3S2,51.13420401,-114.1566947
+443,Trinity Christian School,The Palliser School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2X2A8,50.90988879,-114.0629059
+444,Tuscany School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3L2T4,51.11768845,-114.245652
+445,Twelve Mile Coulee School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3L0C7,51.12388701,-114.244481
+446,Tyndale Christian School,The Canadian Reformed School Society of Calgary,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T1X0L3,51.05549835,-114.0335368
+447,University School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2N3Z9,51.06945866,-114.133078
+448,Valley Creek School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3A6J2,51.15025308,-114.1185272
+449,Valley View School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2B0C6,51.03035961,-113.9790576
+450,Varsity Acres School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A0H7,51.09177675,-114.1477419
+451,Vincent Massey School,The Calgary School Division,Calgary,AB,Junior High,N,N,N,Y,N,T3C2B9,51.04469362,-114.153654
+452,Vista Heights School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2E6J3,51.07339549,-114.0165409
+453,Vista Virtual School,The Pembina Hills School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,,51.00119352,-114.0579985
+454,Vista Virtual School South,The Pembina Hills School Division,Calgary,AB,Unknown,N,N,N,N,N,,51.00123403,-114.0580414
+455,W. O. Mitchell School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3B4R9,51.11338258,-114.1952378
+456,W.H.Cushing Workplace School,The Calgary School Division,Calgary,AB,Unknown,N,N,N,N,N,T2P1M6,51.04702342,-114.0650978
+457,Webber Academy,Webber Academy Foundation,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3H4A8,51.04317761,-114.2269129
+458,West Dalhousie School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3A2C8,51.11149168,-114.1690991
+459,West Dover School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2B0G9,51.0264079,-113.99295
+460,West Island College,West Island College Society of Alberta,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T2H1M5,50.98804408,-114.0517774
+461,West Ridge School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3H5N9,51.05944441,-114.2149322
+462,West Springs School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3H0P7,51.05851203,-114.2153975
+463,West View School,The Calgary School Division,Calgary,AB,Junior High/Senior High,N,N,N,Y,Y,T3R1J3,51.16207662,-114.2202678
+464,Westbrook Outreach,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2G3C5,51.02213364,-114.0400855
+465,Western Canada High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2S0B5,51.03746296,-114.0777213
+466,Westgate School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3C2T3,51.04454124,-114.1597264
+467,Westmount Elementary School,Westmount Charter School Society,Calgary,AB,Elementary,N,N,Y,N,N,T2N2V9,51.0581171,-114.1316163
+468,Westmount Mid/High School,Westmount Charter School Society,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2N4Y3,51.07107587,-114.1332114
+469,Wildwood School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T3C2B3,51.05131376,-114.1517821
+470,William Aberhart High School,The Calgary School Division,Calgary,AB,Senior High,N,N,N,N,Y,T2M4G9,51.07862211,-114.1157158
+471,William D. Pratt School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T3G0A4,51.1512564,-114.221196
+472,William Reid School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2T2E9,51.02190729,-114.0902188
+473,William Roper Hull School,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T2W2Z8,50.94884046,-114.1126762
+474,Willow Park School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2J0K7,50.95768898,-114.0623993
+475,Wilma Hansen School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,,50.93267341,-114.0182963
+476,Woodbine School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W5E1,50.93728667,-114.1290638
+477,Woodlands School,The Calgary School Division,Calgary,AB,Elementary,N,N,Y,N,N,T2W4W9,50.93975896,-114.108301
+478,Woodman School,The Calgary School Division,Calgary,AB,Elementary/Junior High,N,N,Y,Y,N,T2V1L2,50.97568924,-114.0831666
+479,Wood's Homes School,The Calgary School Division,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3B2B2,51.09635285,-114.2242599
+480,Yufeng Chinese School,Yufeng Chinese School Centre,Calgary,AB,Elementary/Junior High/Senior High,N,N,Y,Y,Y,T3G4V5,51.14595992,-114.1829252
