@@ -1,2 +1,5 @@
 Video presentation link:
 https://youtu.be/5eRm8gTlTHU
+
+Power BI Report:
+https://app.powerbi.com/view?r=eyJrIjoiNTU0NDFhMzctOTYwOS00M2U2LWE2NTAtM2FlNTg1MTk0YzBiIiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9
